@@ -1,0 +1,15 @@
+# NAME: Custom_Direct
+# 强制直连域名列表，来自个人收集
+# 部分域名可能和中国大陆域名列表存在重叠
+# 规则内容较少，不会影响性能，请放心使用
+
+# 暴雪战网国服相关
+DOMAIN-SUFFIX,netease.com
+DOMAIN-SUFFIX,leihuo.netease.com
+
+# PT / BT 下载相关
+DOMAIN-KEYWORD,tracker
+
+# Windows 网络连接探测
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com

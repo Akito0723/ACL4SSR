@@ -10,6 +10,9 @@ DOMAIN-SUFFIX,leihuo.netease.com
 # PT / BT 下载相关
 DOMAIN-KEYWORD,tracker
 
+# nvidia
+DOMAIN-SUFFIX,events.gfe.nvidia.com
+
 # Windows 网络连接探测
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com

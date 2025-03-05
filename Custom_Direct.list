@@ -16,3 +16,6 @@ DOMAIN-SUFFIX,events.gfe.nvidia.com
 # Windows 网络连接探测
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
+
+# ip
+DOMAIN-SUFFIX,ipv4.icanhazip.com

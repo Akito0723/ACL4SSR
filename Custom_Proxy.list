@@ -3,5 +3,3 @@
 
 DOMAIN-SUFFIX,eastmoney.com
 DOMAIN-SUFFIX,linux.do
-DOMAIN,api.steampowered.com,PATH,/ISteamUser/GetPlayerSummaries/v2,PROXY
-DOMAIN,store.steampowered.com,PATH,/api/appdetails,PROXY

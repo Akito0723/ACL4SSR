@@ -24,3 +24,5 @@ DOMAIN-SUFFIX,myexternalip.com
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,ipw.cn
 
+# docker镜像
+DOMAIN-SUFFIX,docker.1panel.live

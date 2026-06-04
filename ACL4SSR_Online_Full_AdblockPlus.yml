@@ -3,8 +3,6 @@ proxy-groups:
     type: select
     proxies:
       - ♻️ 自动选择
-      - 🔯 故障转移
-      - 🔮 负载均衡
       - 🇭🇰 香港节点
       - 🇨🇳 台湾节点
       - 🇸🇬 狮城节点
@@ -24,19 +22,6 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
-
-  - name: 🔯 故障转移
-    type: fallback
-    include-all: true
-    url: http://www.gstatic.com/generate_204
-    interval: 300
-    tolerance: 50
-
-  - name: 🔮 负载均衡
-    type: load-balance
-    include-all: true
-    url: http://www.gstatic.com/generate_204
-    interval: 300
 
   - name: 🛑 广告拦截
     type: select
